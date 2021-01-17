@@ -1,134 +1,42 @@
 {
   "project_info": {
-    "project_number": "xxxxxxxxxxxx",
-    "firebase_url": "https://oxoo-xx.firebaseio.com",
-    "project_id": "oxoo-12",
-    "storage_bucket": "oxoo-12.appspot.com"
+    "project_number": "291286698024",
+    "project_id": "avanshinclip",
+    "storage_bucket": "avanshinclip.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:xxxxxxxxxxx:android:xxxxxxxxxxxx",
+        "mobilesdk_app_id": "1:291286698024:android:5686fea36033bdf32b0d1d",
         "android_client_info": {
-          "package_name": "com.oxoo.spagreen"
+          "package_name": "com.avanshin.clip"
         }
       },
       "oauth_client": [
         {
-          "client_id": "xxxxxxxxxxxxx-xxxxxxxxxxxxxx.apps.googleusercontent.com",
+          "client_id": "291286698024-iih8adkf1m6hkcn2hfk6evqhfe896bf0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.oxoo.spagreen",
-            "certificate_hash": "xxxxxxxxxxxxxxxx"
+            "package_name": "com.avanshin.clip",
+            "certificate_hash": "b1ca157f8ba2af8be20ac422186f0a75e42bf23e"
           }
         },
         {
-          "client_id": "xxxxxxxxxxx-xxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.oxoo.spagreen",
-            "certificate_hash": "xxxxxxxxxxxxxxxxxxxxxxxxx"
-          }
-        },
-        {
-          "client_id": "xxxxxxxxxxx-xxxxxxxxxxxxxx.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.oxoo.spagreen",
-            "certificate_hash": "xxxxxxxxxxxxxx"
-          }
-        },
-        {
-          "client_id": "xxxxxxxxxxxx-xxxxxxxxxx.apps.googleusercontent.com",
+          "client_id": "291286698024-u9jhoip5ft8qe4oss2ebmk9ml077kp42.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "xxxxxxxxxxxxx-xxxxxxxxxxxxx"
+          "current_key": "AIzaSyDOTyzCgp9ZTru5N-9hXC2EmBgIaBnY8b0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "xxxxxxxxxxxx-xxxxxxxxxxxxx.apps.googleusercontent.com",
+              "client_id": "291286698024-u9jhoip5ft8qe4oss2ebmk9ml077kp42.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "xxxxxxxxxxxxx-xxxxxxxxxxx.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.spagreen.zamoo"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:xxxxxxxxxxxxx:android:xxxxxxxxxxxxxx",
-        "android_client_info": {
-          "package_name": "com.oxootv.spagreen"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "xxxxxxxxxx-xxxxxxxxxxxxx.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.oxootv.spagreen",
-            "certificate_hash": "xxxxxxxxxxxxxxxxx"
-          }
-        },
-        {
-          "client_id": "xxxxxxxxxxx-xxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.oxootv.spagreen",
-            "certificate_hash": "xxxxxxxxxxxx"
-          }
-        },
-        {
-          "client_id": "567606593355-xxxxxxxxxxxx.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.oxootv.spagreen",
-            "certificate_hash": "xxxxxxxxxxxxxx"
-          }
-        },
-        {
-          "client_id": "567606593355-xxxxxxxxxxxx.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.oxootv.spagreen",
-            "certificate_hash": "xxxxxxxxxxxxxxxx"
-          }
-        },
-        {
-          "client_id": "xxxxxxxxxx-xxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "xxxxxxxxxxxxx-xxxxxxxxxxxxx"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "xxxxxxxxxx-xxxxxxxxxxxxxx.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "xxxxxxxxxx-xxxxxxxxxxxx.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.spagreen.zamoo"
-              }
             }
           ]
         }
