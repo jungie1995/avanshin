@@ -35,11 +35,11 @@ public class AppConfig {
 
     // First, you have to configure firebase to enable facebook, phone and google login
     // facebook authentication
-    public static final boolean ENABLE_FACEBOOK_LOGIN = true;
+    public static final boolean ENABLE_FACEBOOK_LOGIN = false;
 
     //Phone authentication
-    public static final boolean ENABLE_PHONE_LOGIN = true;
+    public static final boolean ENABLE_PHONE_LOGIN = false;
 
     //Google authentication
-    public static final boolean ENABLE_GOOGLE_LOGIN = true;
+    public static final boolean ENABLE_GOOGLE_LOGIN = false;
 }
