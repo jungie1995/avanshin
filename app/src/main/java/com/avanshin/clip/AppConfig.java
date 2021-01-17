@@ -14,7 +14,7 @@ public class AppConfig {
     public static final String API_SERVER_URL = getApiServerUrl();
     public static final String API_KEY = getApiKey();
     //copy your terms url from php admin dashboard & paste below
-    public static final String TERMS_URL = "http://demo.redtvlive.com/oxoo/v13/terms/";
+    public static final String TERMS_URL = "http://admin.avanshin-tv-playlist.com/terms/";
     public static final String ENVATO_PURCHASE_CODE = getPurchaseCode();
     public static final String YOUTUBE_API_KEY = getYouTubeApiKey();
 
